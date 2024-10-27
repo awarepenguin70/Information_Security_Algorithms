@@ -1,3 +1,7 @@
+# ElGamal Encryption and Decryption Example
+# To run this code, install the following library:
+# pip install pycryptodome
+
 from Crypto.Random import get_random_bytes
 from Crypto.Util import number
 

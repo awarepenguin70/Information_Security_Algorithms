@@ -1,3 +1,6 @@
+#pip install cryptography
+#pip install pycryptodome
+
 import random
 
 # ElGamal parameters

@@ -1,3 +1,7 @@
+#pip install numpy
+#pip install pandas
+#pip install matplotlib seaborn
+
 import time
 import hashlib
 import random

@@ -1,3 +1,5 @@
+#pip install pycryptodome
+
 from Crypto.Cipher import AES
 from Crypto.Util import Padding
 

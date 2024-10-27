@@ -1,3 +1,7 @@
+# ElGamal Encryption and Decryption Example
+# To run this code, install the following library:
+# pip install elgamal
+
 import elgamal
 
 # Step 1: Generate ElGamal keys (public and private)

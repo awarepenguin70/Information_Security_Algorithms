@@ -1,3 +1,7 @@
+# RSA Encryption and Decryption Example
+# To run this code, install the following library:
+# pip install rsa
+
 import rsa
 
 # Step 1: Generate RSA keys (public and private)
